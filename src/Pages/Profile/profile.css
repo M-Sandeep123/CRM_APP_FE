@@ -1,0 +1,10 @@
+.textfield{
+   margin-top: 70px;
+}
+
+#form{
+    width: 30%;
+    margin : 0 auto;
+    outline: lightgray auto;
+    padding: 20px;
+}

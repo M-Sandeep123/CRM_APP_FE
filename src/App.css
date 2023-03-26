@@ -1,0 +1,9 @@
+.App{
+  padding: 1%;
+}
+
+.listBox{
+  border: 1px solid gray;
+  padding: 1%;
+  box-sizing: border-box;
+}
